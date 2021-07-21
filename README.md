@@ -1,14 +1,8 @@
 # Project
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository contains special purpose CodeQL queries authored by Microsoft, as well as occassionally experimintal queries that are still in the works but we are sharing early to help the community.  For standard security vulnerability queries, we contribute our work directly to https://github.com/github/codeql to be part of the built in CodeQL detections, rather than publishing them here.
 
-As the maintainer of this project, please make a few updates:
-
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+We welcome contributions and improvements to the queries found here, and new queries that fit the theme and function of the queries here, however if you are authoring a novel new query that performs a different function would strongly encourage contribution directly to the main https://github.com/github/codeql project, or create your own project.
 
 ## Contributing
 

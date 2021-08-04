@@ -1,0 +1,8 @@
+---
+library: false
+name: microsoft/csharp-backdoordetection-solarigate
+version: 0.0.1
+dependencies:
+  codeql/csharp-all: 0.0.2
+  microsoft/csharp-cryptography-hashfunctions: 0.0.1
+defaultSuiteFile: suites\solorigate.qls

@@ -1,0 +1,6 @@
+---
+library: true
+name: microsoft/csharp-cryptography-hashfunctions
+version: 0.0.1
+dependencies:
+  codeql/csharp-all: 0.0.2

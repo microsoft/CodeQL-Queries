@@ -1,0 +1,8 @@
+---
+dependencies:
+  codeql/csharp-all:
+    version: 0.0.2
+  microsoft/csharp-cryptography-hashfunctions:
+    version: 0.0.1
+compiled: false
+lockVersion: 1.0.0

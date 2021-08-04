@@ -1,0 +1,8 @@
+---
+library: false
+name: microsoft/csharp-backdoordetection-solarigate
+version: 0.0.1
+dependencies:
+  codeql/csharp-all: 0.0.2
+  microsoft/csharp-backdoordetection-solarigate: 0.0.1
+

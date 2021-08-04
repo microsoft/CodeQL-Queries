@@ -1,0 +1,7 @@
+- description: These queries in this suite are targeting specific names/values and other syntactic traits present in the Solorigate IoCs.
+- queries: .
+- include:
+    tags contain: solorigate
+- include:
+    kind:
+      - alert-suppression
